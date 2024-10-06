@@ -30,6 +30,7 @@ made:14
 country:14
 during:14
 growing:14
+growing	up:13
 tears:14
 brought:14
 take:14
@@ -88,8 +89,10 @@ got:21
 over:21
 70:21
 been:21
+been	have:14
 since:22
 high:22
+high	school:20
 playing:22
 memory:23
 bring:23
@@ -99,6 +102,7 @@ child:24
 year:24
 jim:25
 away:25
+away	passed:13
 by:25
 has:25
 today:25
@@ -111,8 +115,90 @@ such:26
 them:26
 or:26
 wish:26
+singing:27
+mom:27
+an:28
 ever:28
+came:28
+came	out:16
+some:28
 would:28
+will:28
+will	always:12
 go:28
+day:28
+little:29
+mum:29
 takes:30
 favorite:30
+passed:30
+after:30
+our:31
+makes:31
+wonderful:31
+who:32
+there:32
+there	have:12
+play:33
+really:33
+radio:34
+life:35
+then:36
+ago:36
+again:36
+thanks:36
+how:37
+they:37
+they	were:14
+happy:37
+out:38
+out	just:12
+him:39
+him	his:13
+him	he:17
+are:39
+sing:39
+sing	used:16
+thank:39
+best:39
+not:40
+very:40
+played:41
+what:41
+these:42
+hear:43
+she:43
+those:43
+listen:43
+his:44
+his	he:16
+were:44
+every:44
+can:44
+young:44
+heard:45
+heard	first:17
+times:45
+never:46
+used:46
+am:46
+be:46
+voice:47
+one:47
+school:49
+like:50
+dad:50
+he:50
+he	dad:13
+he	always:14
+up:51
+loved:52
+much:55
+much	had:14
+listening:58
+had:59
+many:61
+first:61
+always:62
+have:64
+just:64

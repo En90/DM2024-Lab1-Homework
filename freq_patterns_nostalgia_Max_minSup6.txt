@@ -175,11 +175,11 @@ dancing:12
 youth:12 
 70s:12 
 name:12 
-forever:12 
+will	forever:7 
 fantastic:12 
 your:12 
 people:12 
-grew:12 
+up	grew:11 
 around:12 
 80:13 
 even:13 
@@ -191,36 +191,37 @@ while:13
 rip:13 
 think:13 
 age:13 
-don:14 
+just	don:6 
+like	don:7 
 take:14 
 brought:14 
-growing:14 
+up	growing:13 
 during:14 
 country:14 
 made:14 
 missed:14 
 hearing:14 
-make:14 
-later:14 
+like	make:6 
+had	later:8 
 past:15 
 man:15 
-sang:15 
+he	sang:6 
 where:15 
 see:15 
-boy:15 
-too:15 
-father:15 
+he	boy:6 
+had	too:6 
+he	father:6 
 singer:15 
 dance:15 
 do:15 
 feel:16 
 nostalgia:16 
-mother:16 
-gone:16 
+up	mother:6 
+are	gone:7 
 died:16 
 world:16 
 live:16 
-if:16 
+had	if:6 
 lot:16 
 listened:16 
 2019:17 
@@ -229,7 +230,8 @@ come:17
 us:17 
 most:17 
 oh:18 
-get:18 
+what	know:6 
+again	get:6 
 70	60:6 
 heart:18 
 teenager:18 
@@ -239,37 +241,392 @@ parents:19
 nostalgic:19 
 cry:19 
 because:19 
-jim	reeves:17 
-no:19 
-girl:20 
+his	jim	reeves:7 
+like	no:7 
+little	girl:7 
 lovely:20 
-did:20 
+then	did:6 
+what	did:6 
+not	did:7 
 well:20 
-early:20 
+had	early:7 
+his	been:6 
+had	been:6 
 since	been:7 
+have	been:14 
 over:21 
-got:21 
+out	got:6 
+one	got:6 
+had	got:6 
 sweet:21 
-playing:22 
-high:22 
-sad:23 
-long:23 
+radio	playing:6 
+little	playing:7 
+first	school	high:6 
+school	our	high:6 
+he	since:6 
+always	since:7 
+heard	since:8 
+have	since:9 
+how	sad:6 
+had	sad:6 
+makes	sad:7 
+ago	long:7 
+had	long:8 
 bring:23 
-memory:23 
-year:24 
+listening	memory:6 
+first	year:6 
 child:24 
 go	wish	could:6 
-about:25 
-today:25 
-has:25 
-by:25 
-away:25 
-or:26 
-them:26 
-such:26 
-only:26 
+these	could:6 
+be	about:7 
+makes	today:6 
+have	today:7 
+his	has:6 
+had	has:6 
+heard	by:6 
+not	by:7 
+have	away:6 
+he	passed	away:6 
+him	away:8 
+listening	jim:7 
+have	wish:6 
+not	or:6 
+she	or:6 
+heard	or:6 
+never	or:6 
+voice	or:6 
+have	or:6 
+can	or:7 
+be	or:7 
+one	them:6 
+up	them:6 
+they	them:7 
+are	them:7 
+like	such:6 
+voice	such:8 
+had	only:6 
 kid:26 
-would:28 
-ever:28 
-favorite:30 
+dad	mom:9 
+school	singing:6 
+loved	day:6 
+just	day:6 
+every	day:7 
+never	day:7 
+have	day:10 
+can	go:8 
+life	will:7 
+happy	will:7 
+she	will:7 
+never	will:9 
+always	be	will:7 
+him	would:6 
+he	would:6 
+be	would:8 
+dad	would:8 
+sing	would:9 
+some:28 
+she	came:6 
+like	came:6 
+loved	came:6 
+just	out	came:6 
+never	came:7 
+one	ever:6 
+he	ever:6 
+had	ever:6 
+always	ever:6 
+his	ever:7 
+best	ever:9 
+his	an:6 
+he	an:6 
+like	an:6 
+had	an:9 
+she	mum:6 
+his	mum:6 
+loved	mum:6 
+always	mum:6 
+dad	mum:11 
+used	little:6 
+always	little:6 
+just	little:7 
+heard	after:6 
+he	after:7 
+up	after:7 
+just	after:7 
+first	after:8 
+have	passed:6 
+always	passed:8 
+his	favorite:6 
+one	favorite:7 
 takes:30 
+hear	wonderful:6 
+many	wonderful:6 
+how	makes:6 
+they	our:6 
+used	our:6 
+up	our:6 
+just	our:6 
+played	our:7 
+he	our:7 
+always	our:7 
+his	there:6 
+heard	there:6 
+one	there:6 
+can	there:8 
+be	there:8 
+are	there:10 
+have	there:12 
+be	who:6 
+loved	who:6 
+listening	who:6 
+had	who:6 
+his	who:7 
+have	who:10 
+be	really:7 
+just	really:7 
+have	really:7 
+always	play:7 
+used	play:11 
+played	radio:6 
+heard	radio:6 
+am	radio:6 
+hear	radio:7 
+just	radio:7 
+up	life:6 
+much	life:6 
+have	life:6 
+best	life:7 
+those	life:7 
+always	life:7 
+had	life:8 
+happy	thanks:6 
+many	thanks:6 
+have	thanks:7 
+are	again:6 
+never	again:6 
+be	again:7 
+like	again:8 
+sing	ago:6 
+him	ago:6 
+he	ago:7 
+dad	ago:7 
+just	then:6 
+what	then:7 
+were	then:7 
+one	then:7 
+like	then:7 
+loved	then:7 
+much	then:7 
+have	then:7 
+had	then:9 
+always	happy:6 
+played	they:6 
+can	they:6 
+used	they:6 
+like	they:6 
+just	they:6 
+loved	they:7 
+are	they:11 
+never	they:11 
+were	they:14 
+times	how:6 
+voice	how:6 
+just	how:6 
+have	how:6 
+can	how:7 
+never	how:7 
+many	how:7 
+had	much	how:6 
+played	out:6 
+one	out:7 
+school	out:7 
+first	out:7 
+had	out:8 
+have	out:11 
+had	best:7 
+are	best:8 
+one	best:8 
+hear	thank:7 
+much	thank:9 
+he	sing:8 
+just	sing:8 
+she	sing:9 
+dad	sing:9 
+used	sing:16 
+were	are:6 
+voice	are:6 
+like	are:6 
+up	are:6 
+loved	are:6 
+just	are:6 
+have	are:7 
+can	are:8 
+these	are:10 
+very	him:6 
+had	him:6 
+much	him:7 
+have	him:7 
+dad	him:8 
+always	he	him:6 
+his	him:13 
+young	very:6 
+his	very:6 
+he	very:6 
+have	very:6 
+much	very:9 
+had	very:10 
+she	not:6 
+can	not:6 
+times	not:6 
+heard	not:6 
+be	not:6 
+like	not:7 
+have	not:7 
+what	not:8 
+just	not:9 
+these	what:6 
+be	what:6 
+voice	what:7 
+one	played:6 
+every	played:7 
+his	played:7 
+can	these:6 
+were	these:6 
+be	these:6 
+can	listen:6 
+always	listen:6 
+every	listen:7 
+like	listen:7 
+used	listen:8 
+many	listen:8 
+just	listen:9 
+times	those:6 
+never	those:6 
+have	those:6 
+one	those:7 
+just	those:9 
+heard	she:6 
+be	she:6 
+never	she:6 
+up	she:6 
+much	she:6 
+have	she:6 
+used	she:7 
+always	she:8 
+just	she:9 
+voice	hear:6 
+had	hear:6 
+every	hear:7 
+heard	hear:7 
+used	hear:7 
+just	hear:7 
+have	young:6 
+were	young:7 
+up	young:7 
+loved	young:7 
+he	can:6 
+loved	can:6 
+much	can:6 
+heard	can:7 
+am	can:7 
+voice	can:7 
+had	can:7 
+just	can:7 
+have	can:7 
+be	can:9 
+first	can:9 
+never	can:10 
+times	every:6 
+used	every:6 
+just	every:7 
+have	every:7 
+school	were:6 
+he	were:6 
+had	were:6 
+just	were:6 
+never	were:7 
+loved	were:7 
+heard	his:6 
+am	his:6 
+had	his:6 
+always	he	his:6 
+dad	his:8 
+one	his:9 
+voice	his:9 
+have	he	his:6 
+never	heard:7 
+had	heard:7 
+am	heard:8 
+just	heard:9 
+have	heard:10 
+first	heard:17 
+am	be:6 
+like	be:6 
+had	be:6 
+have	be:6 
+just	be:7 
+never	be:10 
+voice	be:10 
+he	am:6 
+dad	am:6 
+always	am:6 
+just	am:6 
+listening	am:7 
+have	am:9 
+had	used:6 
+just	used:7 
+he	used:8 
+dad	used:8 
+he	never:6 
+just	never:6 
+school	never:7 
+up	never:7 
+had	never:7 
+first	never:7 
+have	never:8 
+he	one:6 
+up	one:7 
+have	one:7 
+had	one:8 
+just	one:8 
+he	voice:7 
+up	voice:7 
+first	voice:7 
+listening	voice:8 
+had	voice:9 
+have	school:6 
+just	school:8 
+just	he:6 
+loved	he:7 
+had	he:10 
+much	he:11 
+dad	he:13 
+loved	dad:7 
+much	dad:10 
+always	dad:10 
+up	like:7 
+have	like:8 
+just	like:11 
+loved	up:6 
+have	up:6 
+had	up:8 
+just	up:8 
+just	loved:6 
+always	loved:8 
+have	loved:9 
+much	loved:10 
+many	much:6 
+always	much:6 
+had	listening:7 
+many	listening:7 
+first	listening:8 
+have	listening:8 
+first	had:6 
+always	had:6 
+just	had:9 
+have	had:10 
+many	first:6 
+just	first:7 
+have	many:9 
+just	always:7 
+have	always:9 
+have	just:10 

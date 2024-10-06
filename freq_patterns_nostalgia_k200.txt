@@ -1,8 +1,77 @@
+have:64 
+just:64 
+always:62 
+many:61 
+first:61 
+had:59 
+listening:58 
+much:55 
+loved:52 
+up:51 
+like:50 
+dad:50 
+he:50 
+school:49 
+voice:47 
+one:47 
+never:46 
+used:46 
+am:46 
+be:46 
+heard:45 
+times:45 
+his:44 
+were:44 
+every:44 
+can:44 
+young:44 
+hear:43 
+she:43 
+those:43 
+listen:43 
+these:42 
+played:41 
+what:41 
+not:40 
+very:40 
+him:39 
+are:39 
+sing:39 
+thank:39 
+best:39 
+out:38 
+how:37 
+they:37 
+happy:37 
+then:36 
+ago:36 
+again:36 
+thanks:36 
+life:35 
+radio:34 
+play:33 
+really:33 
+who:32 
+there:32 
+our:31 
+makes:31 
+wonderful:31 
 takes:30 
 favorite:30 
+passed:30 
+after:30 
+little:29 
+mum:29 
+an:28 
 ever:28 
+came:28 
+some:28 
 would:28 
+will:28 
 go:28 
+day:28 
+singing:27 
+mom:27 
 kid:26 
 only:26 
 such:26 
@@ -35,6 +104,7 @@ well:20
 did:20 
 lovely:20 
 girl:20 
+school	high:20 
 no:19 
 reeves:19 
 because:19 
@@ -56,6 +126,8 @@ us:17
 come:17 
 wow:17 
 2019:17 
+first	heard:17 
+he	him:17 
 jim	reeves:17 
 listened:16 
 lot:16 
@@ -67,6 +139,9 @@ gone:16
 mother:16 
 nostalgia:16 
 feel:16 
+he	his:16 
+used	sing:16 
+out	came:16 
 do:15 
 dance:15 
 singer:15 
@@ -92,6 +167,10 @@ tears:14
 brought:14 
 take:14 
 don:14 
+have	been:14 
+always	he:14 
+had	much:14 
+were	they:14 
 age:13 
 think:13 
 rip:13 
@@ -102,10 +181,10 @@ eyes:13
 lyrics:13 
 even:13 
 80:13 
-around:12 
-grew:12 
-people:12 
-your:12 
+up	growing:13 
+dad	he:13 
+his	him:13 
+passed	away:13 
 fantastic:12 
 forever:12 
 name:12 
@@ -116,85 +195,6 @@ dancing:12
 50:12 
 their:12 
 sister:12 
-before:11 
-words:11 
-tune:11 
-born:11 
-house:11 
-late:11 
-remind:11 
-going:11 
-want:11 
-big:11 
-other:11 
-classic:11 
-which:11 
-lost:11 
-went:11 
-here:11 
-brother:11 
-through:11 
-night:11 
-nice:11 
-older:11 
-1963:11 
-car:11 
-didn:10 
-also:10 
-into:10 
-god:10 
-home:10 
-amazing:10 
-awesome:10 
-60s:10 
-kind:10 
-real:10 
-use:10 
-14:10 
-changed:10 
-hit:10 
-friends:10 
-younger:10 
-teen:10 
-40:10 
-friend:10 
-bringing:10 
-knew:10 
-once:10 
-summer:10 
-find:9 
-down:9 
-few:9 
-its:9 
-sure:9 
-player:9 
-left:9 
-together:9 
-along:9 
-tv:9 
-until:9 
-yes:9 
-records:9 
-place:9 
-right:9 
-karen:9 
-june:8 
-wedding:8 
-grandparents:8 
-each:8 
-almost:8 
-said:8 
-rock:8 
-elvis:8 
-bought:8 
-20:8 
-danced:8 
-than:8 
-why:8 
-please:8 
-sharing:8 
-mind:8 
-another:8 
-better:8 
-12:8 
-grade:8 
+have	there:12 
+just	out:12 
+always	will:12 

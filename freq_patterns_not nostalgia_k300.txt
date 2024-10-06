@@ -1,6 +1,83 @@
+who:49 
+much:49 
+really:48 
+about:48 
+ever:47 
+if:46 
+by:46 
+how:46 
+best:45 
+thank:43 
+we:43 
+has:43 
+would:43 
+think:43 
+more:43 
+only:43 
+don:43 
+still:42 
+out:42 
+very:40 
+hear:38 
+am:38 
+these:38 
+could:37 
+there:37 
+up:37 
+an:37 
+listen:36 
+had:36 
+do:36 
+many:35 
+singer:35 
+old:35 
+here:35 
+such:34 
+too:34 
+him:32 
+get:32 
+video:32 
+today:32 
+been:32 
+heard:31 
+people:31 
+listening:31 
+most:31 
+man:30 
+some:30 
+world:30 
+than:30 
+sing:29 
+your:29 
+version:29 
+years:28 
+were:28 
+life:27 
+heart:27 
+better:27 
+come:26 
+singing:26 
+sad:26 
+way:26 
+real:26 
+god:25 
+or:25 
+its:25 
+nice:25 
+did:25 
+why:25 
+make:25 
+those:24 
+day:24 
+then:24 
+any:24 
+wish:24 
+first:22 
+their:22 
 elvis:21 
 every:21 
 loved:21 
+amazing:21 
 classic:21 
 them:21 
 lyrics:21 
@@ -11,6 +88,7 @@ made:20
 favorite:20 
 thanks:20 
 ve:20 
+got:20 
 age:19 
 young:19 
 go:19 
@@ -43,6 +121,8 @@ anymore:15
 should:15 
 after:15 
 without:15 
+much	thank:15 
+than	better:15 
 new:14 
 into:14 
 name:14 
@@ -51,6 +131,7 @@ feeling:14
 same:14 
 original:14 
 era:14 
+if	would:14 
 play:13 
 played:13 
 nothing:13 
@@ -62,6 +143,7 @@ our:13
 may:13 
 being:13 
 youtube:13 
+ever	best:13 
 sounds:12 
 brilliant:12 
 girl:12 
@@ -103,6 +185,7 @@ dance:11
 lot:11 
 pretty:11 
 gonna:11 
+more	than:11 
 rock:10 
 says:10 
 other:10 
@@ -118,6 +201,11 @@ sings:10
 down:10 
 want:10 
 understand:10 
+much	very:10 
+ever	most:10 
+would	been:10 
+had	such:10 
+old	years:10 
 favorites:9 
 special:9 
 soul:9 
@@ -142,6 +230,8 @@ ll:9
 happy:9 
 almost:9 
 end:9 
+who	only:9 
+about	think:9 
 jim:8 
 hope:8 
 king:8 
@@ -176,21 +266,11 @@ sang:8
 2019:8 
 guys:8 
 full:8 
-golden:7 
-loving:7 
-top:7 
-least:7 
-maybe:7 
-off:7 
-appreciate:7 
-early:7 
-oh:7 
-background:7 
-probably:7 
-must:7 
-told:7 
-miss:7 
-cry:7 
+much	too:8 
+don	do:8 
+an	amazing:8 
+had	been:8 
+god	bless:8 
 lived:7 
 hard:7 
 left:7 
@@ -215,86 +295,6 @@ comment:7
 also:7 
 sun:7 
 walker:7 
-reeves:6 
-close:6 
-goes:6 
-guess:6 
-next:6 
-roll:6 
-baby:6 
-different:6 
-brought:6 
-gone:6 
-parents:6 
-mom:6 
-started:6 
-story:6 
-done:6 
-playing:6 
-classics:6 
-sharing:6 
-care:6 
-keep:6 
-awesome:6 
-given:6 
-said:6 
-gold:6 
-daughter:6 
-happened:6 
-crap:6 
-last:6 
-take:6 
-looks:6 
-performance:6 
-use:6 
-agree:6 
-artists:6 
-start:6 
-truly:6 
-english:6 
-glad:6 
-screen:6 
-matter:6 
-stars:6 
-course:6 
-melody:6 
-dancing:6 
-dream:6 
-wake:6 
-hey:6 
-vocals:6 
-sweet:6 
-80:6 
-billy:6 
-timeless:6 
-couple:6 
-need:6 
-brenda:6 
-funny:6 
-shine:6 
-tears	eyes:6 
-rock	roll:6 
-jim	reeves:6 
-remember:5 
-100:5 
-mr:5 
-die:5 
-mother:5 
-three:5 
-knew:5 
-dear:5 
-friends:5 
-stop:5 
-white:5 
-magnificent:5 
-credit:5 
-found:5 
-cause:5 
-16:5 
-show:5 
-attention:5 
-bass:5 
-forget:5 
-legend:5 
-vocal:5 
-17:5 
+who	think:7 
+who	am:7 
+much	how:7 

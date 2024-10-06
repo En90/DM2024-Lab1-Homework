@@ -46,6 +46,7 @@ melody:6
 dancing:6
 dream:6
 wake:6
+wake	up:6
 hey:6
 vocals:6
 sweet:6
@@ -76,6 +77,7 @@ lived:7
 hard:7
 left:7
 grew:7
+grew	up:7
 until:7
 masterpiece:7
 talent:7
@@ -123,6 +125,7 @@ listened:8
 once:8
 looking:8
 bless:8
+bless	god:8
 hits:8
 mean:8
 change:8
@@ -233,11 +236,13 @@ era:14
 live:15
 us:15
 anymore:15
+anymore	don:6
 should:15
 after:15
 without:15
 singers:16
 came:16
+came	out:6
 again:16
 country:16
 forever:16
@@ -256,6 +261,7 @@ before:17
 over:17
 because:17
 back:18
+back	then:6
 greatest:18
 makes:18
 age:19
@@ -263,15 +269,165 @@ young:19
 go:19
 see:19
 days:20
+days	these:6
 well:20
 wonderful:20
 made:20
 favorite:20
 thanks:20
 ve:20
+ve	been:6
+got:20
 elvis:21
 every:21
 loved:21
+amazing:21
+amazing	an:8
 classic:21
 them:21
+them	many:6
 lyrics:21
+first:22
+first	heard:6
+their:22
+those:24
+day:24
+day	we:7
+then:24
+any:24
+wish:24
+wish	could:7
+god:25
+god	thank:6
+or:25
+its:25
+nice:25
+nice	would:7
+did:25
+why:25
+why	do:6
+make:25
+come:26
+singing:26
+sad:26
+way:26
+way	thank:6
+real:26
+life:27
+heart:27
+better:27
+better	than:15
+years:28
+years	old:10
+were:28
+were	these:6
+sing:29
+sing	could:6
+your:29
+version:29
+version	too:7
+man:30
+some:30
+world:30
+than:30
+than	more:11
+heard:31
+people:31
+people	many:6
+people	who:6
+listening:31
+listening	here:6
+most:31
+most	ever:10
+him:32
+get:32
+get	don:6
+get	how:7
+video:32
+video	by:6
+today:32
+today	about:6
+been:32
+been	by:6
+been	if:7
+been	had:8
+been	would:10
+such:34
+such	hear:6
+such	had:10
+too:34
+too	really:6
+too	much:8
+many:35
+many	really:6
+many	how:7
+singer:35
+singer	by:6
+old:35
+old	really:6
+here:35
+here	has:6
+here	am:7
+listen:36
+listen	if:6
+listen	am:6
+had:36
+had	an:6
+do:36
+do	by:7
+do	don:8
+could:37
+could	if:6
+there:37
+there	don:6
+there	very:6
+there	if:7
+up:37
+an:37
+hear:38
+am:38
+am	who:7
+these:38
+very:40
+very	about:7
+very	much:10
+still:42
+out:42
+out	best:6
+out	really:6
+out	much:6
+thank:43
+thank	much:15
+we:43
+has:43
+would:43
+would	more:6
+would	if:14
+think:43
+think	has:6
+think	by:6
+think	only:6
+think	who:7
+think	about:9
+more:43
+more	if:6
+more	much:7
+only:43
+only	by:6
+only	who:9
+don:43
+don	if:6
+best:45
+best	ever:13
+if:46
+if	ever:6
+by:46
+how:46
+how	about:6
+how	much:7
+ever:47
+ever	about:6
+really:48
+about:48
+who:49
+much:49

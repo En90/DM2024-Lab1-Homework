@@ -62,6 +62,7 @@ older:11
 car:11
 around:12
 grew:12
+grew	up:11
 people:12
 your:12
 fantastic:12
@@ -92,6 +93,7 @@ made:14
 country:14
 during:14
 growing:14
+growing	up:13
 tears:14
 brought:14
 take:14
@@ -150,8 +152,11 @@ got:21
 over:21
 70:21
 been:21
+been	have:14
 since:22
+since	have:9
 high:22
+high	school:20
 playing:22
 memory:23
 bring:23
@@ -160,7 +165,9 @@ sad:23
 child:24
 year:24
 jim:25
+jim	his:9
 away:25
+away	passed:13
 by:25
 has:25
 today:25
@@ -173,8 +180,144 @@ such:26
 them:26
 or:26
 wish:26
+singing:27
+mom:27
+mom	dad:9
+an:28
+an	had:9
 ever:28
+ever	best:9
+came:28
+came	out:16
+some:28
 would:28
+would	sing:9
+will:28
+will	never:9
+will	be:11
+will	always:12
 go:28
+day:28
+day	have:10
+little:29
+mum:29
+mum	dad:11
 takes:30
 favorite:30
+passed:30
+passed	he:10
+after:30
+our:31
+makes:31
+wonderful:31
+who:32
+who	have:10
+there:32
+there	are:10
+there	have:12
+play:33
+play	used:11
+really:33
+radio:34
+life:35
+then:36
+then	had:9
+ago:36
+again:36
+thanks:36
+how:37
+how	had:10
+they:37
+they	are:11
+they	never:11
+they	were:14
+happy:37
+out:38
+out	have:11
+out	just:12
+him:39
+him	always:9
+him	his:13
+him	he:17
+are:39
+are	these:10
+sing:39
+sing	dad:9
+sing	she:9
+sing	used:16
+thank:39
+thank	much:9
+best:39
+not:40
+not	just:9
+very:40
+very	much:9
+very	had:10
+played:41
+what:41
+these:42
+hear:43
+she:43
+she	just:9
+those:43
+those	just:9
+listen:43
+listen	just:9
+his:44
+his	voice:9
+his	one:9
+his	have:10
+his	he:16
+were:44
+every:44
+can:44
+can	first:9
+can	be:9
+can	never:10
+young:44
+heard:45
+heard	just:9
+heard	have:10
+heard	first:17
+times:45
+never:46
+never	be:10
+used:46
+am:46
+am	have:9
+be:46
+be	voice:10
+be	always:10
+voice:47
+voice	had:9
+one:47
+school:49
+like:50
+like	just:11
+dad:50
+dad	much:10
+dad	always:10
+he:50
+he	had:10
+he	much:11
+he	have:11
+he	dad:13
+he	always:14
+up:51
+loved:52
+loved	have:9
+loved	much:10
+much:55
+much	had:14
+listening:58
+had:59
+had	just:9
+had	have:10
+many:61
+many	have:9
+first:61
+always:62
+always	have:9
+have:64
+just:64
+just	have:10

@@ -9,7 +9,7 @@ billy:6
 sweet:6 
 vocals:6 
 hey:6 
-wake:6 
+up	wake:6 
 dream:6 
 dancing:6 
 melody:6 
@@ -75,7 +75,7 @@ laura:7
 talent:7 
 masterpiece:7 
 until:7 
-grew:7 
+up	grew:7 
 left:7 
 hard:7 
 lived:7 
@@ -101,7 +101,7 @@ sang:8
 change:8 
 mean:8 
 hits:8 
-bless:8 
+god	bless:8 
 looking:8 
 once:8 
 listened:8 
@@ -227,7 +227,7 @@ new:14
 without:15 
 after:15 
 should:15 
-anymore:15 
+don	anymore:6 
 us:15 
 live:15 
 where:16 
@@ -239,7 +239,7 @@ sound:16
 forever:16 
 country:16 
 again:16 
-came:16 
+out	came:6 
 singers:16 
 because:17 
 over:17 
@@ -251,21 +251,110 @@ true:17
 feel:17 
 makes:18 
 greatest:18 
-back:18 
+then	back:6 
 see:19 
 go:19 
 young:19 
 age:19 
-ve:20 
+got:20 
+been	ve:6 
 thanks:20 
 favorite:20 
 made:20 
 wonderful:20 
 well:20 
-days:20 
+these	days:6 
 lyrics:21 
-them:21 
+many	them:6 
 classic:21 
+an	amazing:8 
 loved:21 
 every:21 
 elvis:21 
+their:22 
+heard	first:6 
+could	wish:7 
+any:24 
+we	day:7 
+those:24 
+make:25 
+do	why:6 
+did:25 
+would	nice:7 
+its:25 
+or:25 
+thank	god:6 
+real:26 
+thank	way:6 
+sad:26 
+singing:26 
+come:26 
+than	better:15 
+heart:27 
+life:27 
+these	were:6 
+old	years:10 
+too	version:7 
+your:29 
+could	sing:6 
+more	than:11 
+world:30 
+some:30 
+man:30 
+ever	most:10 
+here	listening:6 
+many	people:6 
+who	people:6 
+by	been:6 
+if	been:7 
+had	been:8 
+would	been:10 
+about	today:6 
+by	video:6 
+don	get:6 
+how	get:7 
+him:32 
+really	too:6 
+much	too:8 
+hear	such:6 
+had	such:10 
+has	here:6 
+am	here:7 
+really	old:6 
+by	singer:6 
+really	many:6 
+how	many:7 
+by	do:7 
+don	do:8 
+an	had:6 
+am	listen:6 
+if	listen:6 
+very	there:6 
+don	there:6 
+if	there:7 
+if	could:6 
+who	am:7 
+about	very:7 
+much	very:10 
+best	out:6 
+really	out:6 
+much	out:6 
+still:42 
+if	don:6 
+think	only:6 
+by	only:6 
+who	only:9 
+would	more:6 
+if	more:6 
+much	more:7 
+has	think:6 
+by	think:6 
+who	think:7 
+about	think:9 
+if	would:14 
+much	thank:15 
+ever	best:13 
+about	how:6 
+much	how:7 
+ever	if:6 
+about	ever:6 

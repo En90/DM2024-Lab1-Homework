@@ -72,7 +72,7 @@ forever:12
 fantastic:12 
 your:12 
 people:12 
-grew:12 
+up	grew:11 
 around:12 
 80:13 
 even:13 
@@ -88,7 +88,7 @@ don:14
 take:14 
 brought:14 
 tears:14 
-growing:14 
+up	growing:13 
 during:14 
 country:14 
 made:14 
@@ -144,14 +144,14 @@ lovely:20
 did:20 
 well:20 
 early:20 
-been:21 
+have	been:14 
 70:21 
 over:21 
 got:21 
 sweet:21 
 playing:22 
-high:22 
-since:22 
+school	high:20 
+have	since:9 
 sad:23 
 long:23 
 bring:23 
@@ -163,14 +163,101 @@ about:25
 today:25 
 has:25 
 by:25 
-away:25 
+passed	away:13 
+his	jim:9 
 or:26 
 them:26 
 such:26 
 only:26 
 kid:26 
+dad	mom:9 
+singing:27 
+have	day:10 
 go:28 
-would:28 
-ever:28 
+never	will:9 
+be	will:11 
+always	will:12 
+sing	would:9 
+some:28 
+out	came:16 
+best	ever:9 
+had	an:9 
+dad	mum:11 
+little:29 
+after:30 
+he	passed:10 
 favorite:30 
 takes:30 
+wonderful:31 
+makes:31 
+our:31 
+are	there:10 
+have	there:12 
+have	who:10 
+really:33 
+used	play:11 
+radio:34 
+life:35 
+thanks:36 
+again:36 
+ago:36 
+had	then:9 
+happy:37 
+are	they:11 
+never	they:11 
+were	they:14 
+had	how:10 
+have	out:11 
+just	out:12 
+much	thank:9 
+she	sing:9 
+dad	sing:9 
+used	sing:16 
+these	are:10 
+always	him:9 
+his	him:13 
+he	him:17 
+much	very:9 
+had	very:10 
+just	not:9 
+what:41 
+played:41 
+just	listen:9 
+just	those:9 
+just	she:9 
+hear:43 
+young:44 
+be	can:9 
+first	can:9 
+never	can:10 
+every:44 
+one	his:9 
+voice	his:9 
+have	his:10 
+he	his:16 
+times:45 
+just	heard:9 
+have	heard:10 
+first	heard:17 
+never	be:10 
+voice	be:10 
+always	be:10 
+have	am:9 
+had	voice:9 
+had	he:10 
+much	he:11 
+have	he:11 
+dad	he:13 
+always	he:14 
+much	dad:10 
+always	dad:10 
+just	like:11 
+have	loved:9 
+much	loved:10 
+had	much:14 
+listening:58 
+just	had:9 
+have	had:10 
+have	many:9 
+have	always:9 
+have	just:10 
