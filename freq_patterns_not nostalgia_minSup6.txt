@@ -393,9 +393,9 @@ very	about:7
 very	much:10
 still:42
 out:42
+out	much:6
 out	best:6
 out	really:6
-out	much:6
 thank:43
 thank	much:15
 we:43
@@ -404,8 +404,8 @@ would:43
 would	more:6
 would	if:14
 think:43
-think	has:6
 think	by:6
+think	has:6
 think	only:6
 think	who:7
 think	about:9

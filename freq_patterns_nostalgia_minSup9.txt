@@ -228,8 +228,8 @@ thanks:36
 how:37
 how	had:10
 they:37
-they	are:11
 they	never:11
+they	are:11
 they	were:14
 happy:37
 out:38
@@ -271,8 +271,8 @@ his	he:16
 were:44
 every:44
 can:44
-can	first:9
 can	be:9
+can	first:9
 can	never:10
 young:44
 heard:45
@@ -286,8 +286,8 @@ used:46
 am:46
 am	have:9
 be:46
-be	voice:10
 be	always:10
+be	voice:10
 voice:47
 voice	had:9
 one:47
