@@ -333,8 +333,8 @@ than:30
 than	more:11
 heard:31
 people:31
-people	many:6
 people	who:6
+people	many:6
 listening:31
 listening	here:6
 most:31
@@ -369,8 +369,8 @@ here:35
 here	has:6
 here	am:7
 listen:36
-listen	if:6
 listen	am:6
+listen	if:6
 had:36
 had	an:6
 do:36
@@ -393,8 +393,8 @@ very	about:7
 very	much:10
 still:42
 out:42
-out	much:6
 out	best:6
+out	much:6
 out	really:6
 thank:43
 thank	much:15
@@ -404,8 +404,8 @@ would:43
 would	more:6
 would	if:14
 think:43
-think	by:6
 think	has:6
+think	by:6
 think	only:6
 think	who:7
 think	about:9

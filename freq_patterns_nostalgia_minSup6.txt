@@ -287,14 +287,14 @@ girl:20
 girl	little:7
 sweet:21
 got:21
-got	one:6
-got	out:6
 got	had:6
+got	out:6
+got	one:6
 over:21
 70:21
 been:21
-been	his:6
 been	had:6
+been	his:6
 been	since:7
 been	have:14
 since:22
@@ -337,8 +337,8 @@ by:25
 by	heard:6
 by	not:7
 has:25
-has	had:6
 has	his:6
+has	had:6
 today:25
 today	makes:6
 today	have:7
@@ -356,17 +356,17 @@ such:26
 such	like:6
 such	voice:8
 them:26
-them	up:6
 them	one:6
+them	up:6
 them	are:7
 them	they:7
 or:26
 or	voice:6
+or	never:6
+or	she:6
+or	have:6
 or	not:6
 or	heard:6
-or	never:6
-or	have:6
-or	she:6
 or	can:7
 or	be:7
 wish:26
@@ -382,18 +382,18 @@ an	his:6
 an	like:6
 an	had:9
 ever:28
+ever	he:6
 ever	one:6
 ever	always:6
 ever	had:6
-ever	he:6
 ever	his:7
 ever	best:9
 came:28
 came	just:6
 came	just	out:6
+came	she:6
 came	loved:6
 came	like:6
-came	she:6
 came	never:7
 came	out:16
 some:28
@@ -404,9 +404,9 @@ would	dad:8
 would	be:8
 would	sing:9
 will:28
-will	life:7
 will	she:7
 will	happy:7
+will	life:7
 will	never:9
 will	be:11
 will	be	always:7
@@ -424,10 +424,10 @@ little	used:6
 little	always:6
 little	just:7
 mum:29
-mum	loved:6
-mum	his:6
-mum	she:6
 mum	always:6
+mum	she:6
+mum	his:6
+mum	loved:6
 mum	dad:11
 takes:30
 favorite:30
@@ -439,29 +439,29 @@ passed	always:8
 passed	he:10
 after:30
 after	heard:6
-after	he:7
 after	just:7
+after	he:7
 after	up:7
 after	first:8
 our:31
-our	used:6
-our	they:6
-our	up:6
 our	just:6
-our	he:7
+our	up:6
+our	they:6
+our	used:6
 our	always:7
+our	he:7
 our	played:7
 our	school:8
 makes:31
 makes	how:6
 wonderful:31
-wonderful	hear:6
 wonderful	many:6
+wonderful	hear:6
 who:32
-who	had:6
-who	listening:6
 who	be:6
+who	had:6
 who	loved:6
+who	listening:6
 who	his:7
 who	have:10
 there:32
@@ -477,51 +477,51 @@ play	always:7
 play	used:11
 really:33
 really	have:7
-really	just:7
 really	be:7
+really	just:7
 radio:34
-radio	am:6
-radio	heard:6
 radio	played:6
-radio	hear:7
+radio	heard:6
+radio	am:6
 radio	just:7
+radio	hear:7
 life:35
-life	much:6
-life	have:6
 life	up:6
+life	have:6
+life	much:6
+life	always:7
 life	those:7
 life	best:7
-life	always:7
 life	had:8
 then:36
 then	just:6
-then	have:7
 then	one:7
-then	much:7
-then	like:7
-then	what:7
-then	loved:7
 then	were:7
+then	what:7
+then	have:7
+then	loved:7
+then	like:7
+then	much:7
 then	had:9
 ago:36
-ago	him:6
 ago	sing:6
+ago	him:6
 ago	he:7
 ago	dad:7
 again:36
-again	are:6
 again	never:6
+again	are:6
 again	be:7
 again	like:8
 thanks:36
-thanks	happy:6
 thanks	many:6
+thanks	happy:6
 thanks	have:7
 how:37
-how	just:6
-how	times:6
 how	have:6
+how	just:6
 how	voice:6
+how	times:6
 how	many:7
 how	never:7
 how	can:7
@@ -530,9 +530,9 @@ how	much	had:6
 how	had:10
 they:37
 they	used:6
+they	can:6
 they	played:6
 they	just:6
-they	can:6
 they	like:6
 they	loved:7
 they	are:11
@@ -542,15 +542,15 @@ happy:37
 happy	always:6
 out:38
 out	played:6
-out	one:7
 out	first:7
+out	one:7
 out	school:7
 out	had:8
 out	have:11
 out	just:12
 him:39
-him	very:6
 him	had:6
+him	very:6
 him	have:7
 him	much:7
 him	dad:8
@@ -559,20 +559,20 @@ him	always	he:6
 him	his:13
 him	he:17
 are:39
-are	just:6
-are	loved:6
-are	like:6
-are	were:6
 are	up:6
 are	voice:6
+are	like:6
+are	were:6
+are	loved:6
+are	just:6
 are	have:7
 are	can:8
 are	these:10
 sing:39
 sing	just:8
 sing	he:8
-sing	dad:9
 sing	she:9
+sing	dad:9
 sing	used:16
 thank:39
 thank	hear:7
@@ -582,60 +582,60 @@ best	had:7
 best	are:8
 best	one:8
 not:40
-not	heard:6
-not	times:6
-not	she:6
-not	can:6
 not	be:6
-not	have:7
+not	can:6
+not	heard:6
+not	she:6
+not	times:6
 not	like:7
+not	have:7
 not	what:8
 not	just:9
 very:40
-very	have:6
 very	young:6
-very	his:6
+very	have:6
 very	he:6
+very	his:6
 very	much:9
 very	had:10
 played:41
 played	one:6
-played	his:7
 played	every:7
+played	his:7
 what:41
 what	be:6
 what	these:6
 what	voice:7
 these:42
+these	can:6
 these	were:6
 these	be:6
-these	can:6
 hear:43
 hear	had:6
 hear	voice:6
+hear	heard:7
+hear	just:7
 hear	used:7
 hear	every:7
-hear	just:7
-hear	heard:7
 she:43
+she	have:6
+she	be:6
 she	heard:6
 she	up:6
-she	never:6
-she	have:6
 she	much:6
-she	be:6
+she	never:6
 she	used:7
 she	always:8
 she	just:9
 those:43
+those	never:6
 those	times:6
 those	have:6
-those	never:6
 those	one:7
 those	just:9
 listen:43
-listen	can:6
 listen	always:6
+listen	can:6
 listen	every:7
 listen	like:7
 listen	used:8
@@ -655,26 +655,26 @@ his	have	he:6
 his	he:16
 were:44
 were	just:6
-were	school:6
-were	had:6
 were	he:6
+were	had:6
+were	school:6
 were	loved:7
 were	never:7
 every:44
-every	times:6
 every	used:6
+every	times:6
 every	have:7
 every	just:7
 can:44
-can	he:6
 can	much:6
 can	loved:6
+can	he:6
+can	have:7
+can	just:7
+can	had:7
 can	voice:7
 can	am:7
-can	had:7
-can	just:7
 can	heard:7
-can	have:7
 can	first:9
 can	be:9
 can	never:10
@@ -684,20 +684,20 @@ young	loved:7
 young	up:7
 young	were:7
 heard:45
-heard	had:7
 heard	never:7
+heard	had:7
 heard	am:8
 heard	just:9
 heard	have:10
 heard	first:17
 times:45
 never:46
-never	he:6
 never	just:6
-never	had:7
-never	first:7
-never	up:7
+never	he:6
 never	school:7
+never	first:7
+never	had:7
+never	up:7
 never	have:8
 never	be:10
 used:46
@@ -714,12 +714,12 @@ am	listening:7
 am	have:9
 be:46
 be	had:6
-be	have:6
-be	am:6
 be	like:6
+be	am:6
+be	have:6
 be	just:7
-be	voice:10
 be	always:10
+be	voice:10
 voice:47
 voice	first:7
 voice	up:7
@@ -734,8 +734,8 @@ one	had:8
 one	just:8
 school:49
 school	have:6
-school	just:8
 school	first:8
+school	just:8
 like:50
 like	up:7
 like	have:8
@@ -755,25 +755,25 @@ he	always:14
 up:51
 up	have:6
 up	loved:6
-up	just:8
 up	had:8
+up	just:8
 loved:52
 loved	just:6
 loved	always:8
 loved	have:9
 loved	much:10
 much:55
-much	always:6
 much	many:6
+much	always:6
 much	had:14
 listening:58
-listening	had:7
 listening	many:7
+listening	had:7
 listening	have:8
 listening	first:8
 had:59
-had	always:6
 had	first:6
+had	always:6
 had	just:9
 had	have:10
 many:61
